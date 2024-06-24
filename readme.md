@@ -1,3 +1,3 @@
 cuming soon...
 
-![](https://github.com/LexeyPivloy/ait_labs/blob/main/nerd-emoji-nerd.gif)
+![](https://github.com/LexeyPivloy/ait_labs/nerd-emoji-nerd.gif)
