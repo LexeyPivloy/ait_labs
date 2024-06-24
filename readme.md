@@ -1,1 +1,3 @@
 cuming soon...
+
+![](https://github.com/LexeyPivloy/ait_labs/blob/main/nerd-emoji-nerd.gif)
