@@ -1,4 +1,4 @@
-cuming soon...
+6132 Павлов Алексей
 
 [lab1.ipyng](lab1/6132_PavlovAA_lab_1_pandas.ipynb)
 
